@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Company Inventory</string>
+    <string name="noNFCText">This device doesn\'t support NFC.</string>
+    <string name="helpText">Enter a name to assign this item, or scan with a blank field to check who it currently
+        belongs to</string>
+    <string name="nfcDisabled">NFC is disabled.</string>
+</resources>
